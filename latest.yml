@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: calculadora-Setup-1.0.0.exe
+    sha512: 6FZGqEEbCCZo1WfyVG5pv3NgORGUb57obk26l6SOeLfqLdmdfbiueeh3+EupW3cMCT8pmNGIX+oUCKEMwpka7w==
+    size: 49808526
+path: calculadora-Setup-1.0.0.exe
+sha512: 6FZGqEEbCCZo1WfyVG5pv3NgORGUb57obk26l6SOeLfqLdmdfbiueeh3+EupW3cMCT8pmNGIX+oUCKEMwpka7w==
+releaseDate: '2020-04-18T18:10:58.235Z'
